@@ -1,0 +1,7 @@
+Running Experiment.py will produce a subset of the results mentioned in the report.
+To disable stemming, change all instances of stemmed[1] to stemmed[0] in Experiment.py. (lines 32,40,45,46)
+To change feature cutoff, change the number at the end of line 68 for unigrams and 69 for bigrams in Evaluation.py.
+To change the number of splits for cross-validation, change the number at the end of line 8 in Experiment.py.
+The results for the Naive Bayes can be found in NB-Results.
+The results for SVM can be found in SVM-Results.
+The results of the sign test can be found in SignTest-Results.
